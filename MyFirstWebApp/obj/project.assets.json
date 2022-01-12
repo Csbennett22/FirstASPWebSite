@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\IS413\\FirstASPWebSite\\MyFirstWebApp\\MyFirstWebApp.csproj",
       "projectName": "MyFirstWebApp",
-      "projectPath": "C:\\Users\\chris\\source\\repos\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+      "projectPath": "C:\\Users\\chris\\Documents\\IS413\\FirstASPWebSite\\MyFirstWebApp\\MyFirstWebApp.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\repos\\MyFirstWebApp\\MyFirstWebApp\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\IS413\\FirstASPWebSite\\MyFirstWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
