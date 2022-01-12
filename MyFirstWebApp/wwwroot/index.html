@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>My First ASP.Net Website</title>
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/main.css" rel="stylesheet" />
+    <link rel="icon" href="img/baseball.png">
+</head>
+<body>
+    <h1>Christian Bennett</h1>
+
+    <!--image and paragraph about my expectations-->
+    <img src="img/astros.jpg" rotate="180" style="width:500px;height:350px;" />
+    <p>I really want to learn how to become better at developing more dynamic web apps. I don't have a lot of experience with C# and I love to learn new programming languages so I am excited to learn the ins and outs of this new language.</p>
+
+    <p>My Top Three Jobs:</p>
+    <ul>
+        <li>1. Baseball data analyst</li>
+        <li>2. Software Developer for Amazon</li>
+        <li>3. Web developer</li>
+    </ul>
+
+    <!--grade calculator form-->
+    <h2>Grade Calculator</h2>
+    <form>
+        <label>Assignments:</label>
+        <input id="assignments" /><br />
+        <label>Group Projects:</label>
+        <input id="gproject" /><br />
+        <label>Quizzes:</label>
+        <input id="quiz" /><br />
+        <label>Exams:</label>
+        <input id="exam" /><br />
+        <label>INTEX:</label>
+        <input id="intex" /><br />
+
+        <input id="buttoncalc" type="button" value="Calculate Grade" />
+    </form>
+
+    <!--bring in the different packages and javascript I've written'-->
+    <script src="lib/jquery/jquery-3.6.0.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/gradecalc.js"></script>
+
+</body>
+</html>
